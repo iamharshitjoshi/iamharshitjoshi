@@ -3,8 +3,6 @@
 
 <a href="#"><img width="100%" height="auto" src="https://media-exp2.licdn.com/dms/image/C4D16AQEY-8aQ-mnhEA/profile-displaybackgroundimage-shrink_350_1400/0/1641380893460?e=1661385600&v=beta&t=Z9l2U4qvJax9GAB_eiSbi4Xl_VuxeJW5wwUMNeNKhKc" height="185px"/></a>
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
 <!-- markdownlint-disable MD033 MD041-->
 
 
