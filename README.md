@@ -3,7 +3,7 @@
 <!-- markdownlint-disable MD033 MD041-->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola+I,+'m+Harshit+Joshi...;Welcome+to+my+Git-Hub+profile!;I+am+a+developer+and+programmer +as+well!;&font=Fira%20Code&center=true&width=450&height=100">
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Harshit's+GitHub+Profile!)](https://git.io/typing-svg)
 </p>
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px">, I'm Harshit</h1>
