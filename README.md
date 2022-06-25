@@ -3,10 +3,10 @@
 <!-- markdownlint-disable MD033 MD041-->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola+I,+'m+Harshit+Joshi...;Welcome+to+my+Git-Hub+profile!;Add+a+description+to+your+repo!&font=Fira%20Code&center=true&width=450&height=100">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola+I,+'m+Harshit+Joshi...;Welcome+to+my+Git-Hub+profile!;I+am+a+developer+&+programmer+as+well!;&font=Fira%20Code&center=true&width=500&height=150">
 </p>
 
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Harshit</h1>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px">, I'm Harshit</h1>
 
 ## 🙋‍♂️ About Me
 
