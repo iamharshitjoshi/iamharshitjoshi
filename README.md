@@ -7,11 +7,16 @@
 I'm Harshit from India, and I am have some Development as well as competitive programmer on codechef. I started learning languages and frameworks like React and React Native, I also have command over HTML / CSS / JS etc. as well.
 
 ##  Skills and Experience:
-Skills: 
-📱 PHP, My SQL
-⚡ DSA(C++) / Python
-💻 HTML, CSS, JS
 
+## Language Over Command:
+
+- 📱 PHP, My SQL
+
+- ⚡ DSA(C++) / Python
+
+- 💻 HTML, CSS, JS
+
+## About current workings:
 
 - 🔭 I’m currently working on to build my own website. 
 - 
