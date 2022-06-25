@@ -1,12 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <!-- markdownlint-disable MD033 MD041-->
-<p align="center">
-  <h3 align="center">⌨️ Hola, I'm Harshit Joshi...</h3>
-</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola+I,+'m+Harshit+Joshi...;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harshit</h1>
