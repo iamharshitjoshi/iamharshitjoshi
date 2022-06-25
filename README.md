@@ -18,7 +18,7 @@ I'm Harshit from India, and I am have some Development as well as competitive pr
 
 ## About current workings:
 
-- 🔭 I’m currently working on to build my own website. 
+- 🔭 I’m currently working to build my own website. 
 - 
 - 🌱 I’m currently learning react and Javascript. 
 - 
