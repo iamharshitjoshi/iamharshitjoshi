@@ -4,6 +4,11 @@
  <img src="https://readme-typing-svg.herokuapp.com?size=30&width=600&lines=Welcome+To+Harshit's+GitHub+Profile!">
 </p>
 
+
+<p align="center">
+ <img src="https://www.canva.com/design/DAFEr2-c3z8/OmklhS6zMNWOBnRRm_pLjg/watch?utm_content=DAFEr2-c3z8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+</p>
+
 <p align="center">
   <img width="300" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" alt="https://i.imgur.com/iXuL1HG.png">
 </p>
