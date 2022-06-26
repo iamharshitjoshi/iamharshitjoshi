@@ -31,6 +31,7 @@ I'm Harshit from India, and I am passinate about development and programming as 
 - 
 - ⚡ Fun fact: Being a learner I like to listen music and at my free time I like to check LinkedIn for my professional growth. 
 
+
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
@@ -57,6 +58,7 @@ I'm Harshit from India, and I am passinate about development and programming as 
     </a>
 </p>
 
+
 ## 📊 My Github Stats
 
   <br/>
@@ -74,6 +76,7 @@ I'm Harshit from India, and I am passinate about development and programming as 
 <br/>
 <br/>
 
+
 ## Connect with me:
 <p align="left">
 
@@ -82,6 +85,7 @@ I'm Harshit from India, and I am passinate about development and programming as 
 <a href = "https://www.instagram.com/it_s__harshit/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
+
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
