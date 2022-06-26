@@ -1,8 +1,11 @@
 
 <!-- markdownlint-disable MD033 MD041-->
-<!-- [![Typing SVG]()](https://git.io/typing-svg) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Harshit's+GitHub+Profile!&font=Fira%20Code&center=true&width=380&height=100">
+  <h3 align="center">⌨️ Readme Typing SVG</h3>
+</p>
+
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Uttam's+GitHub+Profile!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 <p align="center">
