@@ -1,11 +1,11 @@
 
 <!-- markdownlint-disable MD033 MD041-->
 <p align="center">
-  <h3 align="center">⌨️ Readme Typing SVG</h3>
+  <h3 align="center">⌨️ </h3>
 </p>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?size=30&width=600&lines=Welcome+To+Uttam's+GitHub+Profile!">
+ <img src="https://readme-typing-svg.herokuapp.com?size=30&width=600&lines=Welcome+To+Harshit's+GitHub+Profile!">
 </p>
 
 <p align="center">
