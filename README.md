@@ -76,7 +76,6 @@ I'm Harshit from India, and I am passinate about development and programming as 
 <br/>
 <br/>
 
-
 ## Connect with me:
 <p align="left">
 
@@ -85,7 +84,6 @@ I'm Harshit from India, and I am passinate about development and programming as 
 <a href = "https://www.instagram.com/it_s__harshit/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
