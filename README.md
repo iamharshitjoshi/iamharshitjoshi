@@ -1,7 +1,7 @@
 
 <!-- markdownlint-disable MD033 MD041-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Harshit's+GitHub+Profile!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 <p align="center">
