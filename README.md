@@ -7,10 +7,11 @@
 <p align="center">
   <img width="400" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" alt="https://i.imgur.com/iXuL1HG.png">
 </p>
-
+https://img.icons8.com/fluency/344/so-so.png
 <h1 align="center">Hi 👋, I'm Harshit Joshi</h1>
 <h3 align="center">A passionate frontend developer and programmer from India</h3>
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px">, I'm Harshit Joshi</h1>
+<h1 align="center">Hola <img src="https://img.icons8.com/fluency/344/so-so.png" width="100px">, I'm Harshit Joshi</h1>
+<!-- <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px">, I'm Harshit Joshi</h1> -->
 
 ## 🙋‍♂️ About Me
 
