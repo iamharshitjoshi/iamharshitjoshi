@@ -1,8 +1,4 @@
-
 <!-- markdownlint-disable MD033 MD041-->
-<p align="center">
-  <h3 align="center">⌨️ </h3>
-</p>
 
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?size=30&width=600&lines=Welcome+To+Harshit's+GitHub+Profile!">
@@ -11,6 +7,17 @@
 <p align="center">
   <img width="400" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" alt="https://i.imgur.com/iXuL1HG.png">
 </p>
+
+<table>
+  <td>
+<img src="https://raw.githubusercontent.com/helper-uttam/helper-uttam/main/header_.jpeg">
+  </td>
+  <td>
+<img  src="https://camo.githubusercontent.com/43d7ba8fee77106c83a549d2c7697466125a145743bcc783db096062aa0ab894/68747470733a2f2f632e74656e6f722e636f6d2f617a5a434a32597073476741414141692f70726f6772616d6d696e672e676966" alt=""gif>
+    </td>
+</table>  
+  
+<p align="left"> <a href="https://twitter.com/uttamku74410059" target="blank"><img src="https://img.shields.io/twitter/follow/uttamku74410059?logo=twitter&style=for-the-badge" alt="uttamku74410059" /></a> </p>
 
 <h1 align="center">Hola <img size= "50"src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px">, I'm Harshit Joshi</h1>
 
