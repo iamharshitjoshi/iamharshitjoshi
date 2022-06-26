@@ -8,9 +8,9 @@
  <img src="https://readme-typing-svg.herokuapp.com?size=30&width=600&lines=Welcome+To+Harshit's+GitHub+Profile!">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="400" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" alt="https://i.imgur.com/iXuL1HG.png">
-</p>
+</p> -->
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px">, I'm Harshit Joshi</h1>
 
