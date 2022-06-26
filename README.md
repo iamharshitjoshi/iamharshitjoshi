@@ -2,7 +2,7 @@
 <!-- markdownlint-disable MD033 MD041-->
 <!-- [![Typing SVG]()](https://git.io/typing-svg) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Uttam's+GitHub+Profile!)(https://git.io/typing-svg)&font=Fira%20Code&center=true&width=380&height=100">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Harshit's+GitHub+Profile!&font=Fira%20Code&center=true&width=380&height=100">
 </p>
 
 <p align="center">
