@@ -10,6 +10,7 @@
 
 <!-- <h1 align="center">Hi 👋, I'm Harshit Joshi</h1> -->
 <h1 align="center">Hola <img src="https://img.icons8.com/fluency/200/so-so.png" width="50px">, I'm Harshit Joshi</h1>
+
 <h3 align="center">A passionate frontend developer and programmer from India</h3>
 
 <!-- <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px">, I'm Harshit Joshi</h1> -->
