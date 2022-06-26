@@ -5,9 +5,8 @@
 </p>
 
 
-<p align="center">
- <vid src="https://cdn.kapwing.com/final_62b81cb2529d8c006e134c8b_600411.mp4">
-</p>
+ [![Watch the video](https://cdn.kapwing.com/final_62b81cb2529d8c006e134c8b_600411.mp4)
+
 
 <p align="center">
   <img width="300" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" alt="https://i.imgur.com/iXuL1HG.png">
