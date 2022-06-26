@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img width="400" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" alt="https://i.imgur.com/iXuL1HG.png">
+  <img width="30" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" alt="https://i.imgur.com/iXuL1HG.png">
 </p>
 
 <!-- <h1 align="center">Hi 👋, I'm Harshit Joshi</h1> -->
