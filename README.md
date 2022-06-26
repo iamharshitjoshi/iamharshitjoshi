@@ -4,9 +4,9 @@
  <img src="https://readme-typing-svg.herokuapp.com?size=30&width=600&lines=Welcome+To+Harshit's+GitHub+Profile!">
 </p>
 
-
- [![Watch the video](https://cdn.kapwing.com/final_62b81cb2529d8c006e134c8b_600411.mp4)
-
+<p align="center">
+  <img width="300" src="blob:https://web.whatsapp.com/832afccf-01c4-4d5b-a800-e086c247d3a9">
+</p>
 
 <p align="center">
   <img width="300" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" alt="https://i.imgur.com/iXuL1HG.png">
