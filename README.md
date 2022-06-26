@@ -1,9 +1,7 @@
 
+
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Harshit's+GitHub+Profile!)](https://git.io/typing-svg) 
-</p>
-<p align="center">
-  <img width="300" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Harshit's+GitHub+Profile!;I+am+a+Developer+and+programmer too!;This+is+my+Git-Hub+README+file&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Harshit's+GitHub+Profile!;I+am+a+Developer+and+programmer too!;This+is+my+Git-Hub+README+file&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 <p align="center">
