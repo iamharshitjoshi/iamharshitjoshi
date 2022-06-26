@@ -1,7 +1,7 @@
 
 <!-- markdownlint-disable MD033 MD041-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Welcome+to+my+Git-Hub+profile!;I+am+a+Developer+and+programmer+as+well!;This+is+my+Git-Hub+README+file!&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Harshit's+Git-Hub+profile!;I+am+a+Developer+and+programmer+as+well!;This+is+my+Git-Hub+README+file!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 <p align="center">
