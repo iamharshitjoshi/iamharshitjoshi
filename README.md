@@ -1,16 +1,12 @@
 
 <!-- markdownlint-disable MD033 MD041-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Harshit's+GitHub+Profile!;I+am+a+Developer+and+programmer+as+well!;This+is+my+Git-Hub+README+file!&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Welcome+to+my+Git-Hub+profile!;I+am+a+Developer+and+programmer+as+well!;This+is+my+Git-Hub+README+file!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 <p align="center">
   <img width="400" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" alt="https://i.imgur.com/iXuL1HG.png">
 </p>
-
-
-
-<!-- markdownlint-disable MD033 MD041-->
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px">, I'm Harshit Joshi</h1>
 
