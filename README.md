@@ -6,7 +6,7 @@
 
 
 <p align="center">
- <img src="https://www.canva.com/design/DAFEr2-c3z8/QpM7gX7frgnBmZRaHmuc8A/edit?utm_content=DAFEr2-c3z8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+ <img src="https://www.kapwing.com/videos/62b81cb2529d8c006e134c8b">
 </p>
 
 <p align="center">
