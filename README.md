@@ -6,7 +6,7 @@
 
 
 <p align="center">
- <img src="https://cdn.kapwing.com/final_62b81cb2529d8c006e134c8b_600411.mp4">
+ <vid src="https://cdn.kapwing.com/final_62b81cb2529d8c006e134c8b_600411.mp4">
 </p>
 
 <p align="center">
