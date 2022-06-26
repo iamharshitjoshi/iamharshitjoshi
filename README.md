@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Harshit's+GitHub+Profile!)](https://git.io/typing-svg) 
 
 <p align="center">
-  <img width="150" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" alt="https://i.imgur.com/iXuL1HG.png">
+  <img width="300" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" alt="https://i.imgur.com/iXuL1HG.png">
 </p>
 <!-- <p align ="center>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
