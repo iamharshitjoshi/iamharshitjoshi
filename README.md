@@ -8,7 +8,7 @@
   <img width="400" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" alt="https://i.imgur.com/iXuL1HG.png">
 </p>
 
-<h1 align="center">Hi 👋, I'm Harshit Joshi</h1>
+<!-- <h1 align="center">Hi 👋, I'm Harshit Joshi</h1> -->
 <h1 align="center">Hola <img src="https://img.icons8.com/fluency/200/so-so.png" width="50px">, I'm Harshit Joshi</h1>
 <h3 align="center">A passionate frontend developer and programmer from India</h3>
 
