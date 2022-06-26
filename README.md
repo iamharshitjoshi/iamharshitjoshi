@@ -3,10 +3,14 @@
 
 <p align="left">
   <img width="400" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" alt="https://i.imgur.com/iXuL1HG.png">
+  <a href="#"><img width="100%" height="auto" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" height="175px"/></a>
+</p>
+
+<!-- <p align="left">
+  <img width="400" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" alt="https://i.imgur.com/iXuL1HG.png"> -->
 </p>
 
 
-<a href="#"><img width="100%" height="auto" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" height="175px"/></a>
 
 <!-- markdownlint-disable MD033 MD041-->
 
