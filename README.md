@@ -7,7 +7,9 @@
 ![harshit_banner](https://user-images.githubusercontent.com/90023611/176618769-0aa22000-49b7-435c-b854-82b90d51a3bc.png)
 
 <!-- <h1 align="center">Hi 👋, I'm Harshit Joshi</h1> -->
-<h1 align="center">Hola <img src="https://img.icons8.com/fluency/200/so-so.png" width="50px">, I'm Harshit Joshi</h1>
+<!-- https://img.icons8.com/fluency/200/so-so.png -->
+
+<h1 align="center">Hola <img src="https://c.tenor.com/62H2GipHhHUAAAAi/marvel-future-revolution-marvel-future-fight.gif" width="50px">, I'm Harshit Joshi</h1>
 
 <h3 align="center">A passionate frontend developer and programmer from India</h3>
 
