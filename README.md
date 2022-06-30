@@ -4,9 +4,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?size=30&width=600&lines=Welcome+To+Harshit's+GitHub+Profile!">
 </p>
 
-
-https://user-images.githubusercontent.com/90023611/176607951-f2808a32-20de-4f56-be38-70b3301e1f73.mp4
-
+![harshit_banner](https://user-images.githubusercontent.com/90023611/176618769-0aa22000-49b7-435c-b854-82b90d51a3bc.png)
 
 <p align="center">
   <img width="300" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" alt="https://i.imgur.com/iXuL1HG.png">
