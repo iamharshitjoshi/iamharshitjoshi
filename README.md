@@ -8,8 +8,8 @@
 
 <!-- <h1 align="center">Hi 👋, I'm Harshit Joshi</h1> -->
 <!-- https://img.icons8.com/fluency/200/so-so.png -->
-
-<h1 align="center">Hola! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="50px">, I'm Harshit Joshi</h1>
+<!-- https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif -->
+<h1 align="center">Hola! <img src="https://64.media.tumblr.com/05053cd56e756f545a68d8252952066d/tumblr_noetw3cpug1s141c3o1_500.gifv" width="50px">, I'm Harshit Joshi</h1>
 
 <h3 align="center">A passionate frontend developer and programmer from India</h3>
 
