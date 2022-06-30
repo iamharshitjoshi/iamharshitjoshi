@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img width="300" src="blob:https://web.whatsapp.com/832afccf-01c4-4d5b-a800-e086c247d3a9">
-</p>
-
-<p align="center">
   <img width="300" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" alt="https://i.imgur.com/iXuL1HG.png">
 </p>
 
