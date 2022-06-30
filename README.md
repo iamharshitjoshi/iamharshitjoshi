@@ -5,12 +5,7 @@
 </p>
 
 
-
-
-<p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/90023611/176606900-dcb86cab-b714-49dd-ab2e-f02f71c71b99.mp4" alt="https://i.imgur.com/iXuL1HG.png">
-</p>
-
+https://user-images.githubusercontent.com/90023611/176607951-f2808a32-20de-4f56-be38-70b3301e1f73.mp4
 
 
 <p align="center">
