@@ -6,16 +6,11 @@
 
 
 
- 
- <p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/90023611/176606727-ca5d4cd1-cca3-452e-b480-e287c5a8fd80.mp4
-<VIDEO URL>" alt="https://i.imgur.com/iXuL1HG.png">
-</p>
-
 
 <p align="center">
-  <img width="300" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" alt="https://i.imgur.com/iXuL1HG.png">
+  <img width="300" src="https://user-images.githubusercontent.com/90023611/176606900-dcb86cab-b714-49dd-ab2e-f02f71c71b99.mp4" alt="https://i.imgur.com/iXuL1HG.png">
 </p>
+
 
 
 <p align="center">
