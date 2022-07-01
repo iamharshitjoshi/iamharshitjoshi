@@ -30,7 +30,7 @@ I'm Harshit from India, and I am passinate about development and programming as 
 
 - 👯 I’m want to collaborate any company for a development and programming related stuff.
  
-- 📫 How to reach me: harshitjoshi9917@gmail.com 
+- 📫 How to reach me: harshitjoshi67396@gmail.com 
 
 - ⚡ Fun fact: Being a learner I like to listen music and at my free time I like to check LinkedIn for my professional growth. 
 
