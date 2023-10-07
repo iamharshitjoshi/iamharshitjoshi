@@ -75,7 +75,9 @@ I'm Harshit from India, and I am passinate about development and programming as 
 <br/>
 <br/>
 
-<a href="https://github.com/iamharshitjoshi/github-readme-activity-graph"><img alt="Harshit Joshi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamharshitjoshi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/iamharshitjoshi/github-readme-activity-graph"><img alt="" src="https://activity-graph.herokuapp.com/graph?username=iamharshitjoshi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Harshit's Joshi Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <br/>
 <br/>
